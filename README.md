@@ -10,7 +10,7 @@
     </a>
     <a href="https://leetcode.com/Teroro_o">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a>href="https://leetcode.com/Teroro_o">
+    </a>
      <img src="https://hackerrank-badge.herokuapp.com/xTeroro" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>>
     </a>
 </p>
