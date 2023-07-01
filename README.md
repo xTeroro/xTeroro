@@ -1,4 +1,4 @@
-<h1 align="center">Hello Stranger<img ![knife](https://github.com/xTeroro/xTeroro/assets/115535965/05703175-99cd-4186-9d35-dea22b314ca0)></h1>
+<h1 align="center">Hello Stranger ![knife](https://github.com/xTeroro/xTeroro/assets/115535965/05703175-99cd-4186-9d35-dea22b314ca0)</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
