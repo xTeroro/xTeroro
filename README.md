@@ -8,9 +8,6 @@
         Collaborations are a maybe.<br>
     </i><br>
     </a>
-    <a href="mailto:wervlad1@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
     <a href="https://leetcode.com/wervlad">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
