@@ -1,4 +1,4 @@
-<h1 align="center">Hello Stranger<img ![](knife.gif)></h1>
+<h1 align="center">Hello Stranger<img (knife.gif)></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
