@@ -4,7 +4,7 @@
     <b>Welcome to my dungeon.</b><br><br>
     <i>
         I am Teroro.<br>
-        Currently working on C++ Problems Unity Game and Python ML\DL.<br>
+        Currently working on C++ Problems Unity Games and Python ML\DL.<br>
         Collaborations are a maybe.<br>
     </i><br>
     </a>
