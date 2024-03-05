@@ -3,7 +3,6 @@
     <i>
         I am Teroro.<br>
         Currently working on C++ Problems and Python ML\DL.<br>
-        Collaborations are a maybe.<br>
     </i><br>
     </a>
     <a href="https://leetcode.com/Teroro_o">
