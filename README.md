@@ -2,7 +2,7 @@
     <b>Welcome to my dungeon.</b><br><br>
     <i>
         I am Teroro.<br>
-        Currently working on C++ Problems and Python ML\DL.<br>
+        Currently working on C and Python ML\DL.<br>
     </i><br>
     </a>
     <a href="https://leetcode.com/Teroro_o">
