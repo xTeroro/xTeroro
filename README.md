@@ -21,7 +21,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/xTeroro)
 
 ### OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/xTeroro)
+[![Linux Debian](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)](https://github.com/xTeroro)
 
 <details>
 <p align="center">
